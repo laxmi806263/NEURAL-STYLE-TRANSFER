@@ -34,3 +34,9 @@ Optimization: An initial image (usually a copy of the content image) is updated 
 Output Generation: After a fixed number of iterations (e.g., 500–1000), the final image is deprocessed (converted back from VGG19’s format to RGB) and saved as output_stylized_image.jpg.
 
 INPUT:
+
+![Image](https://github.com/user-attachments/assets/07f266cd-9fbf-4841-a227-5ebd3e43c882)
+
+![Image](https://github.com/user-attachments/assets/e6921af2-2d17-4fb5-9610-f2ffaf503545)
+
+OUTPUT:
