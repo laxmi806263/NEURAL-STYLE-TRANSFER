@@ -40,3 +40,5 @@ INPUT:
 ![Image](https://github.com/user-attachments/assets/e6921af2-2d17-4fb5-9610-f2ffaf503545)
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/798edc47-0347-4ce2-9a00-3ac028fd63af)
